@@ -2,7 +2,7 @@
 
 **Awesome Freescout Community Modules**
 
-If you've created a module for [FreeScout](https://github.com/freescout-helpdesk/freescout "FreeScout") and want the world to know about it, please submit an issue or pull request.
+If you've created a module for [FreeScout](https://github.com/freescout-helpdesk/freescout "FreeScout") and want the world to know about it, please [submit an issue](https://github.com/avenjamin/awesome-freescout/issues/new?assignees=avenjamin&labels=&template=add-module-request.md&title=%5BREQUEST%5D+Add+%3Cname%3E+Module) or pull request.
 
 ## Modules
 
