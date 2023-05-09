@@ -20,5 +20,6 @@ If you've created a module for [FreeScout](https://github.com/freescout-helpdesk
 * [Themes](https://github.com/avenjamin/freescout-Themes-Module "Themes") - Pick a UI colour theme
 * [Twilio](https://github.com/calebbaker194/Freescout-Twilio "Twilio") - A freescout integration for twilio
 * [Unassigned Count](https://github.com/avenjamin/freescout-UnassignedCount-Module "UnassignedCount") - Show the number of unassigned tickets in the Mailbox menu
+* [UnSub](https://github.com/aarhus/UnSub "UnSub") - Adds the ability to for one click unsubscribe to mailing lists that support it
 * [WordPress](https://github.com/scout-devs/Freescout-WordPress-Plugin "WordPress") - Integrates Freescout features with WordPress and shows most recent conversation in WordPress admin
 
