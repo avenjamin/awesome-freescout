@@ -16,7 +16,7 @@ If you've created a module for [FreeScout](https://github.com/freescout-helpdesk
 * [SAML2](https://github.com/vladaman/freescout-saml2 "SAML2") - SAML 2.0 Module for Freescout
 * [Seven](https://github.com/seven-io/FreeScout "Seven") - FreeScout module for sending SMS via seven
 * [Sidebar Webhook](https://github.com/fulldecent/freescout-sidebar-webhook "Sidebar Webhook") - Sidebar Webhook asynchronously injects HTML from your server into conversation sidebars
-* [Stripe](https://github.com/anisAronno/freescout-stripe-modules "Stripe") - Freescout stripe module
+* [Stripe](https://github.com/weDevsOfficial/Laravel-FreeScout-Stripe-Module "Stripe") - Freescout stripe module
 * [Themes](https://github.com/avenjamin/freescout-Themes-Module "Themes") - Pick a UI colour theme
 * [Twilio](https://github.com/calebbaker194/Freescout-Twilio "Twilio") - A freescout integration for twilio
 * [Unassigned Count](https://github.com/avenjamin/freescout-UnassignedCount-Module "UnassignedCount") - Show the number of unassigned tickets in the Mailbox menu
