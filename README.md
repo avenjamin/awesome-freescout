@@ -8,6 +8,7 @@ If you've created a module for [FreeScout](https://github.com/freescout-helpdesk
 
 * [Alternative Signatures](https://github.com/LJPc-solutions/freescout-alternative-signatures-module "Alternative Signatures") - Alternative signatures in Freescout
 * [Calendar](https://github.com/LJPc-solutions/freescout-calendar-module "Calendar") - A calendar module for Freescout
+* [ChatGPT Integration](https://github.com/code-debug228/HostetskiGPT) - Generate AI-based responses for incoming messages, providing a more efficient and intelligent support system.
 * [Fetch Seen](https://github.com/FreeScout-shop/fetch-seen "Fetch Seen") - Fetch Seen Emails
 * [Following](https://github.com/avenjamin/freescout-Following-Module "Following") - Add a 'Following' folder to your mailboxes
 * [Knowledge API](https://github.com/jtorvald/freescout-knowledge-api "Knowledge API") - Module for FreeScout to make the public content in the knowledge base available through an API
@@ -22,4 +23,3 @@ If you've created a module for [FreeScout](https://github.com/freescout-helpdesk
 * [Unassigned Count](https://github.com/avenjamin/freescout-UnassignedCount-Module "UnassignedCount") - Show the number of unassigned tickets in the Mailbox menu
 * [UnSub](https://github.com/aarhus/UnSub "UnSub") - Adds the ability to for one click unsubscribe to mailing lists that support it
 * [WordPress](https://github.com/scout-devs/Freescout-WordPress-Plugin "WordPress") - Integrates Freescout features with WordPress and shows most recent conversation in WordPress admin
-
